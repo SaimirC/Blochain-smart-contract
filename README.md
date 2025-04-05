@@ -1,2 +1,2 @@
 # Blochain-smart-contract
-Task assignment For quantum technology class
+Decentralized Job Marketplace
